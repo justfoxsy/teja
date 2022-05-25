@@ -1,26 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Tējas</title>
-</head>
-<body>
 
 
+h1 {front-size: 40px;
+color:black}
 
+h2 {font-size: 45px;
+color: black}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
+h3 {front-size: 34px;
+    color:black}
+body {
+    background-color: rgba(233, 196, 153, 0.205);
+  }
